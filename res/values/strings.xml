@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FB Google Login</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="APP_ID">373975126130710</string>
+    <string name="update_status">Update Status</string>
+    <string name="post_image">Post Image</string>
+    <string name="title_facebook_login">FB Login</string>
+    <string name="title_activity_main_fragment">MainFragment</string>
+    <string name="title_activity_fblogin">FBLoginActivity</string>
+    <string name="title_activity_google_login">GoogleLogin</string>
+
+</resources>
